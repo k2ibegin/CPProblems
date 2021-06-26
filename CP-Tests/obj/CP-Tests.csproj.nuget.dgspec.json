@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adhiku/dev/testworkarea/CP/CP-Tests/CP-Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/adhiku/dev/testworkarea/CP/CP-Tests/CP-Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adhiku/dev/testworkarea/CP/CP-Tests/CP-Tests.csproj",
+        "projectName": "CP-Tests",
+        "projectPath": "/Users/adhiku/dev/testworkarea/CP/CP-Tests/CP-Tests.csproj",
+        "packagesPath": "/Users/adhiku/.nuget/packages/",
+        "outputPath": "/Users/adhiku/dev/testworkarea/CP/CP-Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adhiku/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/GrenzebachDigital/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/adhiku/dev/testworkarea/CP/CP/CP.csproj": {
+                "projectPath": "/Users/adhiku/dev/testworkarea/CP/CP/CP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/adhiku/dev/testworkarea/CP/CP/CP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adhiku/dev/testworkarea/CP/CP/CP.csproj",
+        "projectName": "CP",
+        "projectPath": "/Users/adhiku/dev/testworkarea/CP/CP/CP.csproj",
+        "packagesPath": "/Users/adhiku/.nuget/packages/",
+        "outputPath": "/Users/adhiku/dev/testworkarea/CP/CP/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adhiku/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/GrenzebachDigital/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

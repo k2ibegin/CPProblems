@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=606c72b2_002Da73c_002D470f_002Dac54_002D83c232c72ffb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanConstructShouldPass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;0CA667B2-A09D-4FD4-A40C-CBA24C327727/f:CanConstructTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::0CA667B2-A09D-4FD4-A40C-CBA24C327727::.NETCoreApp,Version=v3.1::CP_Tests.ClosestNumberTest.ClosesNumberShouldPass&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::0CA667B2-A09D-4FD4-A40C-CBA24C327727::.NETCoreApp,Version=v3.1::CP_Tests.ClosestNumberTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
