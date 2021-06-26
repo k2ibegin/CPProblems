@@ -1,9 +1,0 @@
-/Users/adhiku/dev/testworkarea/CP/CP/bin/Debug/netstandard2.1/CP.deps.json
-/Users/adhiku/dev/testworkarea/CP/CP/bin/Debug/netstandard2.1/CP.dll
-/Users/adhiku/dev/testworkarea/CP/CP/bin/Debug/netstandard2.1/CP.pdb
-/Users/adhiku/dev/testworkarea/CP/CP/obj/Debug/netstandard2.1/CP.csprojAssemblyReference.cache
-/Users/adhiku/dev/testworkarea/CP/CP/obj/Debug/netstandard2.1/CP.AssemblyInfoInputs.cache
-/Users/adhiku/dev/testworkarea/CP/CP/obj/Debug/netstandard2.1/CP.AssemblyInfo.cs
-/Users/adhiku/dev/testworkarea/CP/CP/obj/Debug/netstandard2.1/CP.csproj.CoreCompileInputs.cache
-/Users/adhiku/dev/testworkarea/CP/CP/obj/Debug/netstandard2.1/CP.dll
-/Users/adhiku/dev/testworkarea/CP/CP/obj/Debug/netstandard2.1/CP.pdb
